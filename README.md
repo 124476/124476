@@ -6,15 +6,23 @@ I'm a backend and software developer
 
 **About me**
 
-- A students from Russia
+- A student from Russia
 
 - Graduated from two courses at Yandex Lyceum
 
-**Our skills**
+- Second place in WorldSkills Russia
 
-- Development in Python Django, Flask, pygame
+**My skills**
 
-- SQL SQLite
+- Development in Python Django, Flask
+
+- C# Visual Studio WPF
+
+- SQL MS server, SQLite
+
+
+| <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&theme=buefy&hide_border=true" alt="124476 stats" /></a> | <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124476&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #### Projects
 
@@ -27,4 +35,3 @@ I'm a backend and software developer
 <a href="https://github.com/124476/Tatarlango">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Tatarlango&theme=buefy" />
 </a>
-
