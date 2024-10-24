@@ -24,3 +24,13 @@ I'm a backend and software developer
 | <a href="https://124476.github.io/124476"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&theme=buefy&hide_border=true" alt="124476 stats" /></a> | <a href="https://124476.github.io/124476"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124476&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+#### Projects
+
+<a href="https://github.com/124476/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Best_diary&theme=buefy" />
+</a>
+<a href="https://github.com/124476/Entangled-Tale">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Entangled-Tale&theme=buefy" />
+</a>
+
+
