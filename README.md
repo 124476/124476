@@ -21,6 +21,6 @@ I'm a backend and software developer
 - SQL MS server, SQLite
 
 
-| <a href="https://github.com/124476/124476"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&theme=algolia&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/124476/124476"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124476&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" /></a> |
+| <a href="https://github.com/124476/124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/124476/124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124476&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
