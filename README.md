@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @124476
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python, c#, sql, java, c++, paskal
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send 124476
-- 😄 Pronouns: Idk
-- ⚡ Fun fact: I'm got a more fun in programming
+<p align="center"><a href="https://124476.github.io"><img width="80%" alt="Hello, I'm 124476." src="./img/hello.png" /></a></p>
 
-<!---
-124476/124476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
 
+I'm a backend and software developer
+
+**About me**
+
+- A student from Russia
+
+- Graduated from two courses at Yandex Lyceum.
+
+- Second place in WorldSkills Russia
+
+**My skills**
+
+- Development in Python Django, Flask, 
+
+- C# Visual Studio WPF
+
+- SQL MS server, SQLite
+
+[![.](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=124476)](https://github.com/124476/github-readme-stats)
+[![.](https://github-readme-stats.vercel.app/api?username=124476&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![.](https://github-readme-stats.vercel.app/api/top-langs?username=124476&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
