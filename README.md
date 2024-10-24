@@ -8,13 +8,13 @@ I'm a backend and software developer
 
 - A student from Russia
 
-- Graduated from two courses at Yandex Lyceum.
+- Graduated from two courses at Yandex Lyceum
 
 - Second place in WorldSkills Russia
 
 **My skills**
 
-- Development in Python Django, Flask, 
+- Development in Python Django, Flask
 
 - C# Visual Studio WPF
 
