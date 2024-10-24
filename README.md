@@ -20,5 +20,5 @@ I'm a backend and software developer
 
 - SQL MS server, SQLite
 
-[![.](https://github-readme-stats.vercel.app/api?username=124476&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 [![.](https://github-readme-stats.vercel.app/api/top-langs?username=124476&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![.](https://github-readme-stats.vercel.app/api?username=124476&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
