@@ -26,7 +26,7 @@ I'm a backend and software developer
 
 #### Projects
 
-<a href="https://github.com/124476/github-readme-stats">
+<a href="https://github.com/124476/Best_diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Best_diary&theme=buefy" />
 </a>
 <a href="https://github.com/124476/Entangled-Tale">
