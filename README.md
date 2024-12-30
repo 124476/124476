@@ -35,3 +35,6 @@ I'm a backend and software developer
 <a href="https://github.com/124476/Tatarlango">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Tatarlango&theme=buefy" />
 </a>
+<a href="https://github.com/124476/Smart_Class">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class&theme=buefy" />
+</a>
