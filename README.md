@@ -2,23 +2,29 @@
 
 <br/>
 
-I'm a backend and software developer
+Я - backend и software developer
 
 **About me**
 
-- A student from Russia
+- Студент из России
 
-- Graduated from two courses at Yandex Lyceum
+- Занял второе место Профессионалы (WorldSkills) Russia "Программные решения для бизнеса"
 
-- Second place in WorldSkills Russia
+- Занял первое место на Первенстве России по продуктовому программированию
+
+- Кандидат в мастера спорта по спортивном программированию
+
+- Закончил два курса в Яндекс Лицее
+
+- 4 место среди всех на потоке Весна-2024 специализации Яндекса по Django
 
 **My skills**
 
-- Development in Python Django, Flask
+- Python: Django, Flask, Pygame
 
 - C# Visual Studio WPF
 
-- SQL MS server, SQLite
+- SQL: MS server, SQLite
 
 
 | <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&theme=buefy&hide_border=true" alt="124476 stats" /></a> | <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124476&layout=compact&theme=buefy&hide_border=true" /></a> |
