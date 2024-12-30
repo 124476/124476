@@ -4,7 +4,7 @@
 
 Я - backend и software developer
 
-**About me**
+**Обо мне**
 
 - Студент из России
 
@@ -18,7 +18,7 @@
 
 - 4 место среди всех на потоке Весна-2024 специализации Яндекса по Django
 
-**My skills**
+**Мои навыки**
 
 - Python: Django, Flask, Pygame
 
