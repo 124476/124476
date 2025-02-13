@@ -2,23 +2,23 @@
 
 <br/>
 
-Я - backend и software developer
+I am a backend and software developer
 
-**Обо мне**
+**About me**
 
-- Студент из России
+- A student from Russia
 
-- Занял первое место на Первенстве России по продуктовому программированию
+- Took first place at the Russian Product Programming Championship
   
-- Занял второе место Профессионалы (WorldSkills) Russia "Программные решения для бизнеса"
+- The second place was taken by Professionals (WorldSkills) Russia "Software solutions for business"
 
-- Кандидат в мастера спорта по спортивном программированию
+- Candidate for Master of Sports in Sports programming
 
-- Закончил с отличием два курса в Яндекс Лицее
+- Graduated with honors from two courses of Yandex Lyceum
 
-- 4 место среди всех на потоке Весна-2024 специализации Яндекса по Django
+- 4th place among all on the Spring-2024 stream of Yandex's Django specialization
 
-- Участник регионального этапа по информатике
+- Participant of the regional computer science stage
 
 ---
 
