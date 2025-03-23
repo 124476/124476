@@ -20,6 +20,8 @@ I am a backend and software developer
 
 - Participant of the regional computer science stage
 
+- Winner of the national Technological Olympiad "Automation of business processes"
+
 ---
 
 ### Frontend:
