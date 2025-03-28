@@ -55,11 +55,10 @@ I am a backend and software developer
 ### Languages:
 
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="py" alt="py" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="cs" alt="cs" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="cs" alt="cs" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="java" alt="java" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="py" alt="py" width="40" height="40"/> &nbsp
 </div>
 
 ---
