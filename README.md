@@ -98,15 +98,10 @@ I am a backend and software developer
 
 #### Projects
 
-<a href="https://github.com/124476/Best_diary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Best_diary&theme=buefy" />
-</a>
-<a href="https://github.com/124476/Entangled-Tale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Entangled-Tale&theme=buefy" />
-</a>
-<a href="https://github.com/124476/Tatarlango">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Tatarlango&theme=buefy" />
-</a>
 <a href="https://github.com/124476/Smart_Class">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class&theme=buefy" />
+</a>
+
+<a href="https://github.com/124476/Smart_Class_program">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_program&theme=buefy" />
 </a>
