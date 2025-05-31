@@ -10,7 +10,7 @@ I am a backend and software developer
 
 - Took first place at the Russian Product Programming Championship
   
-- The second place was taken by Professionals (WorldSkills) Russia "Software solutions for business"
+- The first place was taken by Professionals (WorldSkills) Russia "Software solutions for business"
 
 - Candidate for Master of Sports in Sports programming
 
