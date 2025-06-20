@@ -105,3 +105,7 @@ I am a backend and software developer
 <a href="https://github.com/124476/Smart_Class_program">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_program&theme=buefy" />
 </a>
+
+<br>Visitor count</br>
+<img src="https://profile-counter.glitch.me/124476/count.svg" />
+</div>
