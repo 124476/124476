@@ -106,6 +106,10 @@ I am a backend and software developer
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_program&theme=buefy" />
 </a>
 
-<br>Visitor count</br>
-<img src="https://profile-counter.glitch.me/124476/count.svg" />
+<div align="center">
+  
+  ### 🚀 Visitor Count
+  
+  <img src="https://profile-counter.glitch.me/124476/count.svg" alt="Visitor counter" style="margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+  
 </div>
