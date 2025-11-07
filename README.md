@@ -92,24 +92,34 @@ I am a backend and software developer
 
 ---
 
-
-| <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&theme=buefy&hide_border=true" alt="124476 stats" /></a> | <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124476&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Projects
-
-<a href="https://github.com/124476/Smart_Class">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class&theme=buefy" />
-</a>
-
-<a href="https://github.com/124476/Smart_Class_program">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_program&theme=buefy" />
-</a>
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  ### 🚀 Visitor Count
-  
-  <img src="https://profile-counter.glitch.me/124476/count.svg" alt="Visitor counter" style="margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
-  
+
+| **Profile Statistics** | **Most Used Languages** |
+| :--- | :--- |
+| <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="124476's GitHub Stats" /></a> | <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=124476&layout=compact&theme=radical&hide_border=true&langs_count=8" /></a> |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### **🌟 My Top Repositories**
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<a href="https://github.com/124476/Smart_Class_web" style="text-decoration: none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_web&theme=dark&show_owner=true" />
+</a>
+
+<a href="https://github.com/124476/Smart_Class_desktop" style="text-decoration: none;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_desktop&theme=dark&show_owner=true" />
+</a>
+
+</div>
+
 </div>
