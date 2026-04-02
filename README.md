@@ -92,34 +92,14 @@ I am a backend and software developer
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-| **Profile Statistics** | **Most Used Languages** |
-| :--- | :--- |
-| <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=124476&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="124476's GitHub Stats" /></a> | <a href="https://124476.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=124476&layout=compact&theme=radical&hide_border=true&langs_count=8" /></a> |
+<a href="https://124476.github.io"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=124476&theme=radical" alt="124476's GitHub Stats" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### **🌟 My Top Repositories**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<a href="https://github.com/124476/Smart_Class_web" style="text-decoration: none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_web&theme=dark&show_owner=true" />
-</a>
-
-<a href="https://github.com/124476/Smart_Class_desktop" style="text-decoration: none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=124476&repo=Smart_Class_desktop&theme=dark&show_owner=true" />
-</a>
-
-</div>
-
-</div>
+<img src="https://hits.sh/github.com/124476.svg?style=flat-square&label=Visitors&color=blue" alt="Hits" />
