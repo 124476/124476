@@ -8,10 +8,20 @@ I am a backend and software developer
 
 - A student from Russia
 
-- Took first place at the Russian Product Programming Championship
-  
-- The first place was taken by Professionals (WorldSkills) Russia "Software solutions for business"
+- First place in the Russian Product Programming Championship 2024
 
+- Third place in the Russian Product Programming Championship 2025
+  
+- Absolute winner of the National Technological Olympiad (NTO) "Software engineering in financial technology" 2026
+  
+- First place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2025
+
+- Second place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2024
+
+- Winner of the National Technological Olympiad (NTO) "Automation of business processes" 2025
+
+- Winner of the National Technological Olympiad (NTO) "Automation of business processes" 2026
+  
 - Candidate for Master of Sports in Sports programming
 
 - Graduated with honors from two courses of Yandex Lyceum
@@ -19,8 +29,6 @@ I am a backend and software developer
 - 4th place among all on the Spring-2024 stream of Yandex's Django specialization
 
 - Participant of the regional computer science stage
-
-- Winner of the national Technological Olympiad "Automation of business processes"
 
 ---
 
