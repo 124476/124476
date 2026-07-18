@@ -14,6 +14,8 @@ I am a backend and software developer
   
 - Absolute winner of the National Technological Olympiad (NTO) "Software engineering in financial technology" 2026
   
+- First place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2026
+  
 - First place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2025
 
 - Second place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2024
