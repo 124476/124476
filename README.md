@@ -2,35 +2,34 @@
 
 <br/>
 
-I am a backend and software developer
+Я бэкенд-разработчик и разработчик ПО
 
-**About me**
+## Обо мне
 
-- A student from Russia
+- Студент ИТМО
+- Уроженец Казани
+- Кандидат в мастера спорта по спортивному программированию
 
-- First place in the Russian Product Programming Championship 2024
+---
 
-- Third place in the Russian Product Programming Championship 2025
-  
-- Absolute winner of the National Technological Olympiad (NTO) "Software engineering in financial technology" 2026
-  
-- First place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2026
-  
-- First place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2025
+## Достижения
 
-- Second place was in the Professionals (WorldSkills) Russia "Software solutions for business" 2024
+### WorldSkills / Профессионалы
 
-- Winner of the National Technological Olympiad (NTO) "Automation of business processes" 2025
+- 1 место — «Программные решения для бизнеса», 2026
+- 1 место — «Программные решения для бизнеса», 2025
+- 2 место — «Программные решения для бизнеса», 2024
 
-- Winner of the National Technological Olympiad (NTO) "Automation of business processes" 2026
-  
-- Candidate for Master of Sports in Sports programming
+### Национальная технологическая олимпиада (НТО)
 
-- Graduated with honors from two courses of Yandex Lyceum
+- Абсолютный победитель НТО «Программная инженерия в финансовых технологиях», 2026
+- Победитель НТО «Автоматизация бизнес-процессов», 2025
+- Победитель НТО «Автоматизация бизнес-процессов», 2026
 
-- 4th place among all on the Spring-2024 stream of Yandex's Django specialization
+### Чемпионаты России
 
-- Participant of the regional computer science stage
+- 1 место — Первенство России по продуктовому программированию, 2024
+- 3 место — Первенство России по продуктовому программированию, 2025
 
 ---
 
@@ -69,35 +68,7 @@ I am a backend and software developer
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="cs" alt="cs" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="cpp" alt="cpp" width="40" height="40"/> &nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="java" alt="java" width="40" height="40"/> &nbsp
-</div>
-
----
-
-### Tools:
-
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="git" alt="git" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="github" alt="git" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="figma" alt="figma" width="40" height="40"/> &nbsp
-</div>
-
----
-
-### OS:
-
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" title="windows" alt="windows" width="40" height="40"/> &nbsp
-</div>
-
----
-
-### IDE and Code Editors:
-
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="idea" alt="idea" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="pycharm" alt="pycharm" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="vscode" alt="vscode" width="40" height="40"/> &nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/> &nbsp
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="go" alt="java" width="40" height="40"/> &nbsp
 </div>
 
 ---
